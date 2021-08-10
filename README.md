@@ -10,6 +10,6 @@ Hobbies
 
 Some of my hobbies are
 
-+lacrosse 
--
--
+- lacrosse 
+
+
