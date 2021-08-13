@@ -1,9 +1,13 @@
 # AboutMe
 ---
 ---
+
 ## Summary 
 
 My name is Justis Guin. I'm a senior at New Tech I am currently enrolled in my second year of computer science class at SICTC. I enjoy getting out on drives while listening to music and I like going to the gym to workout with my friends and riding in the beds of their trucks at night. 
+
+[1]: https://en.wikipedia.org/wiki/Paul_Rabil
+[2]: https://en.wikipedia.org/wiki/Charlie_Miller_(security_researcher)
 
 Hobbies
 -
@@ -33,9 +37,17 @@ The way to get started is to <b>quit talking and begin doing</b>. -Walt Disney
 
 ## My Favortie Websites 
 
-[GitHub](https://github.com/JustisGuin "My GitHub Account")
-[Reddit](reddit.com "Home Page Of Reddit)
 
+[My GitHub Account](https://github.com/JustisGuin "My GitHub Account")
+
+[Reddit](reddit.com)
+
+
+## Person Of Interest 
+
+[Paul Rabil][1]<br>
+
+[Charlie Miller][2]<br>
 
 
 
