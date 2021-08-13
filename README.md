@@ -33,7 +33,9 @@ The way to get started is to <b>quit talking and begin doing</b>. -Walt Disney
 
 ## My Favortie Websites 
 
-[Cats](https://www.reddit.com/r/cats/)
+[GitHub](https://github.com/JustisGuin "My GitHub Account")
+[Reddit](reddit.com "Home Page Of Reddit)
+
 
 
 
