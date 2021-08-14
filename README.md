@@ -40,7 +40,7 @@ The way to get started is to <b>quit talking and begin doing</b>. -Walt Disney
 
 [My GitHub Account](https://github.com/JustisGuin "My GitHub Account")
 
-[Reddit](reddit.com)
+[Reddit](reddit.com "Home Page Of Reddit")
 
 
 ## Person Of Interest 
@@ -53,6 +53,14 @@ The way to get started is to <b>quit talking and begin doing</b>. -Walt Disney
 <kbd>
 <img src="https://github.com/JustisGuin/AboutMe/blob/main/Charile%20Miller.jpg" height="400px" width="500px"></kbd>
 
+
+## Favorite Terms
+
+| Terms | Definition | My Meaning 
+| :- |  :----: | ---: |
+| Ok | Used to express assent, agreement, or acceptance | A sarcastic way of saying I don't care
+| Alright| Satisfactory but not especially good; acceptable | Content
+| Exquisite | Extremely beautiful and, typically, delicate | Very Nice, Amazing 
 
 
 
