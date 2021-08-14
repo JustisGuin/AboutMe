@@ -46,8 +46,14 @@ The way to get started is to <b>quit talking and begin doing</b>. -Walt Disney
 ## Person Of Interest 
 
 [Paul Rabil][1]<br>
+<kbd>
+<img src="https://github.com/JustisGuin/AboutMe/blob/main/Paul%20Rabil.jpg" height="300px" width="500px"></kbd>
 
 [Charlie Miller][2]<br>
+<kbd>
+<img src="https://github.com/JustisGuin/AboutMe/blob/main/Charile%20Miller.jpg" height="400px" width="500px"></kbd>
+
+
 
 
 
